@@ -5,7 +5,7 @@ Este script foi criado para transformar qualquer distribuição Linux em uma má
 
 ## Funcionalidades
 
-- Instalação de lojas de jogos: Steam, Lutris, Heroic, Bottles.
+- Instalação de lojas de jogos: Steam, Lutris, Heroic.
 - Ferramentas de otimização de performance: CoreCtrl, MangoHud, GameMode.
 - Suporte a placas de vídeo AMD, NVIDIA e Intel com otimizações específicas.
 - Configurações de otimização para jogos em Steam, incluindo Vulkan e outras variáveis.
