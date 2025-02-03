@@ -23,7 +23,8 @@ Este script foi criado para transformar qualquer distribuição Linux em uma má
 Primeiro, baixe o arquivo `all-linux-script-gamer.sh`. Você pode fazer isso diretamente do seu terminal com o seguinte comando:
 
 ```bash
-curl -O https://link-para-o-seu-arquivo-do-script/all-linux-script-gamer.sh
+git clone https://github.com/Sudosu32/all-linux-script-gamer.git
+cd all-linux-script-gamer
 ```
 
 ### Passo 2: Tornar o script executável
